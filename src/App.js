@@ -27,7 +27,10 @@ const fun1= ()=>{
 if(student1.name===student2.name){
   fun1();
 }
-
+const arr1 = [1,2,3,4,5,6];
+for (let item of arr1){
+  console.log(item);
+}
   return (
     <div className="App">
       <header className="App-header">
