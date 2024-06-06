@@ -1,1 +1,1 @@
-# tecket-sk
+# Teckat-intership
